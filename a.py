@@ -1,5 +1,12 @@
-en = 'Relative to Other Views.en.srt'
-ch = '1B-16-Relative to Other Views.zh-CN.srt'
+# -*- coding: utf-8 -*-
+# @Author: Lich_Amnesia  
+# @Email: alwaysxiaop@gmail.com
+# @Date:   2016-04-01 13:34:07
+# @Last Modified time: 2016-04-08 18:27:23
+# @FileName: a.py
+
+en = '3B - 18 - Adjust Price With Toppings - Solution.en.srt'
+ch = '3B-18-Adjust Price With Toppings - Solution.zh-CN.srt'
 fen = open(en)
 fch = open(ch)
 
