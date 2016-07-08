@@ -2,8 +2,9 @@
 # @Author: Lich_Amnesia  
 # @Email: alwaysxiaop@gmail.com
 # @Date:   2016-04-01 13:34:07
-# @Last Modified time: 2016-04-08 18:27:23
+# @Last Modified time: 2016-07-07 22:13:28
 # @FileName: a.py
+# 合并中文英文
 
 en = '3B - 18 - Adjust Price With Toppings - Solution.en.srt'
 ch = '3B-18-Adjust Price With Toppings - Solution.zh-CN.srt'
